@@ -5,6 +5,8 @@ auto_validation: true
 time: 20
 tags: [tutorial>beginner, products>sap-hana, tutorial>license]
 primary_tag: topic>node.js
+author_name: Yevhen Hura
+author_profile: https://github.com/Assatrua
 
 ---
 
